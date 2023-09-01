@@ -1,0 +1,54 @@
+{
+    "productos": [
+      {
+        "nombre": "Mini Bag Katya negra tramada",
+        "stock": 20,
+        "precio": 9668
+      },
+      {
+        "nombre": "Mini Bag Katya black lisa",
+        "stock": 10,
+        "precio": 9668
+      },
+      {
+        "nombre": "Mini Bag Katya rosa nude",
+        "stock": 7,
+        "precio": 9700
+      },
+      {
+        "nombre": "Mini Tote Moon charol negro",
+        "stock": 15,      
+        "precio": 7800
+      },
+      {
+        "nombre": "Mini Tote Moon gamuza",
+        "stock": 20,
+        "precio": 7900
+      },
+      {
+        "nombre": "Mini Tote Moon charol gris",
+        "stock": 15,
+        "precio": 7800
+      },
+      {
+        "nombre": "Gigi Bag blanca",
+        "stock": 10,
+        "precio": 12870
+      },
+      {
+        "nombre": "Bandolera Bella negra",
+        "stock": 20,
+        "precio": 11797
+      },
+      {
+        "nombre": "Bandolera Bella natural",
+        "stock": 15,
+        "precio": 11797
+      },
+      {
+        "nombre": "Bandolera Bella azul",
+        "stock": 10,
+        "precio": 11797
+      }
+    ]
+  }
